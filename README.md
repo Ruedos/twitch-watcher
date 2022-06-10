@@ -66,11 +66,10 @@
 - [Docker-Compose](https://docs.docker.com/compose/install/)
 
 ### Usage
-1. Download docker-compose-example.yml
-2. Rename docker-compose.yml
-3. Copy/rename .env.example to .env
-4. Fix settings in .env
-5. Run with `docker-compose up -d` command
+1. Download repository
+2. Copy/rename .env.example to .env
+3. Fix settings in .env (executable should be something like /usr/bin/chromium-browser)
+4. Run with `docker-compose up -d` command
 ## Dependencies
 <p align="center">
 <img alt="GitHub package.json dependency version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/dependency-version/D3vl0per/Valorant-watcher/puppeteer-core"> <img alt="GitHub package.json dependency version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/dependency-version/D3vl0per/Valorant-watcher/cheerio"> <img alt="GitHub package.json dependency version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/dependency-version/D3vl0per/Valorant-watcher/inquirer"> <img alt="GitHub package.json dependency version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/dependency-version/D3vl0per/Valorant-watcher/dotenv"> <img alt="GitHub package.json dependency version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/dependency-version/D3vl0per/Valorant-watcher/dayjs"> <img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/D3vl0per/valorant-watcher/tree-kill">
