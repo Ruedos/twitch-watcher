@@ -6,11 +6,11 @@
   "scripts": {
     "start": "node app"
   },
-  "author": "D3v <info@zsmark.dev>",
+  "author": "Ruedos <info@ruedos.dev>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/D3vl0per/Valorant-watcher"
+    "url": "https://github.com/Ruedos/Twitch-watcher"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
