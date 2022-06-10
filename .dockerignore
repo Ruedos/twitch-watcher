@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.env
+config.json
+streamers.json
+docker-compose.yml
+actual-steamer.png
+.git

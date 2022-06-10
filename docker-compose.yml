@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  twitch-watcher:
+    build: . #For local build
+    image: ruedos/twitch-watcher:latest #For local build
+    container_name: twitch-watcher
+    restart: always
+    env_file:
+        - .env
+    #volumes:
+    #  - "./screenshots:/usr/src/app/screenshots"
