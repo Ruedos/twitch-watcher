@@ -147,7 +147,7 @@ Show me your support by donating me a coffee <3.
 
 
 ## Support
- - 
+ - [Discord](https://discord.gg/NNb6rzSnwu)
 
 ## Disclaimer
 This code is for educational and research purposes only.
