@@ -33,7 +33,7 @@ const removeStreamerFromPriorityOnReward = (process.env.removeStreamerFromPriori
 const watchAlwaysTopStreamer = (process.env.watchAlwaysTopStreamer || false);
 var watch;
 
-const showBrowser = true; // false state equ headless mode;
+const showBrowser = false; // false state equ headless mode;
 const proxy = (process.env.proxy || ""); // "ip:port" By https://github.com/Jan710
 const proxyAuth = (process.env.proxyAuth || "");
 
